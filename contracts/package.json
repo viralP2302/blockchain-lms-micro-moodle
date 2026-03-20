@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "version": "1.0.0",
+  "description": "Hardhat Smart Contract for MicroMoodle",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.22.1"
+  }
+}

@@ -1,0 +1,34 @@
+# Dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Hardhat files
+cache/
+artifacts/
+
+# Backend uploads and data
+backend/uploads/
+backend/feedback.json
+
+# Environment variables
+.env
+.env.test
+
+# Agent folders
+.gemini
+.agents
+.cursor
+.cascade
+.aider
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Frontend build
+frontend/dist
+frontend/dist-ssr
